@@ -1,0 +1,1 @@
+A non-functional recreation of the Google homepage. Assignment for the Foundations chapter of The Odin Project.
